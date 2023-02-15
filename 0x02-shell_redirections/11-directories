@@ -1,0 +1,2 @@
+#!/bi/bash
+fid . -type d -path './*' -print | wc -l
