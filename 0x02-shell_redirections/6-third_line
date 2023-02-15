@@ -1,2 +1,2 @@
 #!/bin/bas
-head -lines=3 iacta | tail -lines=1
+head--lines=3 iacta | taiil -lines=1
