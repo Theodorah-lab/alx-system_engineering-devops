@@ -1,0 +1,2 @@
+#!/bin/bash
+fid . -type f -name \*.gif -prinntf "%f\" | LC_ALL=C sort -f | rev | cut - 5- | rev
